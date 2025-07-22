@@ -46,8 +46,11 @@ o	Performance Metrics: Response time distributions, CPU usage trends, and bottle
 # Result:- 
 
 •	Compliance Monitoring: Defined compliance indicators and flagged any policy violations within the SAP system.
+
 •	Performance Trends: Identified system load distribution patterns per user and monitored response time fluctuations to improve performance.
+
 •	Data Storage Benefits: Implemented structured data storage in SQL, improving query efficiency and enhancing reporting accuracy
+
 •	Security Enhancement: Detected unusual user activity patterns, which were further investigated to prevent security breaches.
 
 
