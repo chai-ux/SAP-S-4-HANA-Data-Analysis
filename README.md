@@ -1,10 +1,10 @@
 # SAP-S-4-HANA-Data-Analysis
 
-#Objective
+# Objective
 
 This project focusses on analysis of SAP S/4HANA User Access Data from the STAD (System Trace and Analysis Data) report which aims to strengthen security, optimize system performance, and enhance decision-making through structured data insights. This project also aims to strengthen security and compliance monitoring by analyzing user access logs from SAP S/4HANA. Given the critical role of enterprise resource planning (ERP) systems in modern organizations, ensuring secure and efficient user access is essential for maintaining data integrity, preventing cyber threats, and adhering to regulatory standards.
 
-#Tools Used
+# Tools Used
 -SAP S/4 HANA (Data Source)
 - Microsoft Excel (Data Processing)
 - MsSQL
@@ -43,7 +43,7 @@ o	User Activity Trends: Graphs showing login frequencies, transaction execution 
 o	Security Alerts: Conditional formatting and alerts for unauthorized access or abnormal system usage.
 o	Performance Metrics: Response time distributions, CPU usage trends, and bottleneck identification charts.
 
-Result:- 
+# Result:- 
 
 •	Compliance Monitoring: Defined compliance indicators and flagged any policy violations within the SAP system.
 •	Performance Trends: Identified system load distribution patterns per user and monitored response time fluctuations to improve performance.
